@@ -26,9 +26,9 @@ Android Studio or Xcode for building and running the app on a physical device.
 
 Installation: 
 
-Clone the repository using the following command: git clone https://github.com/username/task-management-app.git
+Clone the repository using the following command: git clone https://github.com/frequel45/task-manager-native.git
 
-Navigate to the project directory using the following command: cd task-management-app
+Navigate to the project directory using the following command: cd task-manager-native
 
 Install the dependencies using the following command: npm install
 
